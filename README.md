@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srinath2805/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/srinath2805/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/srinath2805/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/srinath2805/LeetCode/tree/master/0217-contains-duplicate) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/srinath2805/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/srinath2805/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
