@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/srinath2805/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srinath2805/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/srinath2805/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/srinath2805/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/srinath2805/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/srinath2805/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srinath2805/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/srinath2805/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/srinath2805/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
