@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srinath2805/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinath2805/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srinath2805/LeetCode/tree/master/0136-single-number) |
+| [0163-missing-ranges](https://github.com/srinath2805/LeetCode/tree/master/0163-missing-ranges) |
 | [0217-contains-duplicate](https://github.com/srinath2805/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srinath2805/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srinath2805/LeetCode/tree/master/0268-missing-number) |
