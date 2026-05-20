@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/srinath2805/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0268-missing-number](https://github.com/srinath2805/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srinath2805/LeetCode/tree/master/0283-move-zeroes) |
+| [0346-moving-average-from-data-stream](https://github.com/srinath2805/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/srinath2805/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srinath2805/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/srinath2805/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinath2805/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/srinath2805/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/srinath2805/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/srinath2805/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
