@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/srinath2805/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0344-reverse-string](https://github.com/srinath2805/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinath2805/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/srinath2805/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Trie
 |  |
 | ------- |
