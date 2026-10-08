@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srinath2805/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/srinath2805/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
